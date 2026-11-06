@@ -2,6 +2,17 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.5.0 - 2026-11-06
+- /test home: the Voltage Modular tile image is now a two-row
+  virtual case (renders/CASE.png): the top 10 modules, 5 + 5 -
+  top row KICK, BOOL, RECT, QDIV, BELL tilted back ~45 degrees;
+  bottom row BONG, FOLD, ORBIT, PLATE, TIC at ~10 degrees -
+  with blank panels padding each row. Membership and order are
+  Ben's pick, revisited as sales data lands. The full
+  19-module skiff (renders/SKIFF.png) is unchanged and remains
+  the complete-catalog image wherever it is referenced,
+  including its regenerate-on-approval rule.
+
 ## 1.4.0 - 2026-11-06
 - /test Tern page copy rewritten as product copy: the bullets
   now describe Tern as the instrument it is (a step sequencer,
