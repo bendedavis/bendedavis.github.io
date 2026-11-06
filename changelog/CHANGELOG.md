@@ -2,6 +2,12 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.3.1 - 2026-11-06
+- CODER landing page removed (Ben's call - "only link to the
+  manual"): the manual's home is the direct link,
+  /coder/manual.pdf. The /coder/ page is gone; the PDF and
+  the front page are unchanged.
+
 ## 1.3.0 - 2026-11-06
 - CODER manual published on the site: the complete manual for
   the CODER live-coding module now lives at /coder/manual.pdf,
