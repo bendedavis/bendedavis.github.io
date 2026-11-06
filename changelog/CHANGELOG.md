@@ -2,6 +2,15 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.5.1 - 2026-11-06
+- /test home: INTERIM REVERT - the Voltage Modular tile image
+  is back to the flat 19-module skiff (renders/SKIFF.png).
+  The two-row virtual case (renders/CASE.png, shipped in
+  1.5.0) failed Ben's review as a warped composite and is
+  SUPERSEDED, pending an Argon-designed case rebuild.
+  CASE.png stays in the repo and on disk as the documented
+  failed attempt; it is not deleted.
+
 ## 1.5.0 - 2026-11-06
 - /test home: the Voltage Modular tile image is now a two-row
   virtual case (renders/CASE.png): the top 10 modules, 5 + 5 -
