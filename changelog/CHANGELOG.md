@@ -2,6 +2,21 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.4.0 - 2026-11-06
+- /test Tern page copy rewritten as product copy: the bullets
+  now describe Tern as the instrument it is (a step sequencer,
+  sampler and FX instrument in one grid) instead of reading
+  like a beta test report. The beta facts sit in one
+  small-print line: public beta 0.3.0, Windows and Linux
+  available now, macOS in development, this beta build runs
+  until about November 19, 2026.
+- /test home: the Voltage Modular tile image is now a full
+  skiff render (renders/SKIFF.png) - every approved module
+  loaded side by side in gallery order, blank panels filling
+  the last row. STANDING RULE: the skiff is regenerated every
+  time Cherry Audio approves a module; the new module's
+  render joins the skiff at approval.
+
 ## 1.3.1 - 2026-11-06
 - CODER landing page removed (Ben's call - "only link to the
   manual"): the manual's home is the direct link,
