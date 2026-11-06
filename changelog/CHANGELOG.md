@@ -2,6 +2,13 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.3.0 - 2026-11-06
+- CODER manual published on the site: the complete manual for
+  the CODER live-coding module now lives at /coder/manual.pdf,
+  with a small landing page at /coder/ (the store page cannot
+  host documents, so the manual's home is here). Front page
+  unchanged.
+
 ## 1.2.1 - 2026-11-05
 - Test page REBUILT to Ben's corrected brief: a professional
   company page from the 90s, not a personal blog. Masthead with
