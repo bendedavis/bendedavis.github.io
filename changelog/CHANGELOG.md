@@ -2,6 +2,20 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.2 - 2026-11-07
+- CODER manual (/coder/manual.pdf) revised per Ben's ruling:
+  the language reference is now complete. All 38 words of the
+  CODER language have full entries (argument ranges and exact
+  behaviour), plus the gate() rule, pattern reading rules,
+  feedback rules, and the full list of edit-time checks -
+  extracted from the build-10 implementation, not the old
+  manual. Two corrections: the error readout is the status
+  line at the top of the panel (not under the PLAY box), and
+  quantize tie-breaking is stated per mode. 7 pages -> 14.
+  Manual source: ~/workspace/vm/coder-rescue/manual.md;
+  gap report: ~/workspace/coder-manual/GAP-REPORT.md.
+  Published to the live site 2026-11-07 on Ben's GO.
+
 ## 1.7.1 - 2026-11-07
 - /test REMOVED from the public site. With the site live at
   the root, /test was a second public copy of every page.

@@ -1,5 +1,5 @@
 bendavis.io - site version
-Version: 1.7.1
+Version: 1.7.2
 Released: 2026-11-07
 
 The current version of the site lives in this file. The full
