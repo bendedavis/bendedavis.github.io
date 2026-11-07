@@ -2,6 +2,13 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.6.2 - 2026-11-06
+- /test Tern page: the macOS build is out - the greyed COMING SOON
+  tile is now a live download button for Tern-0.3.0-beta.1.dmg
+  (universal VST3 + standalone). Beta line updated: all three
+  platforms available; the Mac build runs to about November 20,
+  2026, a day past the Windows/Linux builds.
+
 ## 1.6.1 - 2026-11-06
 - REVERT of 1.6.0 at Ben's direction: the landing page is back to
   the plain coming-soon page. The support@ + header-logo change
