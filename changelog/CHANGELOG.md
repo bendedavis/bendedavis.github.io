@@ -2,6 +2,27 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.0 - 2026-11-07
+- THE SITE IS LIVE: the /test site is promoted to the front
+  page of bendavis.io, per Ben's ruling (2026-11-07 09:27 -
+  the promotion waited only on the finished case render,
+  approved 2026-11-07 10:29). The root now serves the full
+  site: home, the Voltage Modular catalog, and the Tern page.
+  The coming-soon page is retired; headline.png and soon.png
+  stay in the repo as its record. /test stays up, unchanged
+  apart from the case tile below.
+- Home: the Voltage Modular tile image is now CASE2 - the
+  two-tier case holding the top ten modules (top row KICK,
+  BOOL, RECT, QDIV, BELL at ~45 degrees; bottom row BONG,
+  FOLD, ORBIT, PLATE, TIC at ~20 degrees), composited from
+  the modules' own flat front panels - no generated pixels.
+  Case design by Argon (HIGH consult), adjudicated against
+  the real masters and built by Muse; approved by Ben.
+  On-page image renders/CASE2.png; the full 2400x1800 master
+  is renders/CASE2-2400.png. This closes the 1.5.1 interim:
+  the CASE.png attempt (1.5.0) and the SKIFF.png skiff stay
+  in the repo as the documented earlier attempts.
+
 ## 1.6.2 - 2026-11-06
 - /test Tern page: the macOS build is out - the greyed COMING SOON
   tile is now a live download button for Tern-0.3.0-beta.1.dmg
