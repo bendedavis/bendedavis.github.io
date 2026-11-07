@@ -1,6 +1,6 @@
 bendavis.io - site version
-Version: 1.6.2
-Released: 2026-11-06
+Version: 1.7.0
+Released: 2026-11-07
 
 The current version of the site lives in this file. The full
 history of every change is in /changelog/CHANGELOG.md.
