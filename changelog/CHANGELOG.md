@@ -1,5 +1,12 @@
 # bendavis.io - full change log
 
+## 1.6.0 - 2026-11-06
+- Landing page rebuilt in the test site's Style C treatment: the
+  headline logo now sits as a page header (same logo and header
+  styling as /test), COMING SOON below it.
+- Public support contact added: support@bendavis.io (mailto),
+  shown on the landing page.
+
 Newest first. Every change to the site gets an entry here.
 
 ## 1.5.1 - 2026-11-06
