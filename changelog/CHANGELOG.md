@@ -1,13 +1,18 @@
 # bendavis.io - full change log
 
+Newest first. Every change to the site gets an entry here.
+
+## 1.6.1 - 2026-11-06
+- REVERT of 1.6.0 at Ben's direction: the landing page is back to
+  the plain coming-soon page. The support@ + header-logo change
+  belongs on the Cherry Audio store page, not bendavis.io.
+
 ## 1.6.0 - 2026-11-06
 - Landing page rebuilt in the test site's Style C treatment: the
   headline logo now sits as a page header (same logo and header
   styling as /test), COMING SOON below it.
 - Public support contact added: support@bendavis.io (mailto),
   shown on the landing page.
-
-Newest first. Every change to the site gets an entry here.
 
 ## 1.5.1 - 2026-11-06
 - /test home: INTERIM REVERT - the Voltage Modular tile image
