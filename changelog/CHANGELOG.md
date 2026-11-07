@@ -2,6 +2,14 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.1 - 2026-11-07
+- /test REMOVED from the public site. With the site live at
+  the root, /test was a second public copy of every page.
+  Changes are now built on a staging branch and previewed
+  privately before publishing; the front page changes only
+  on Ben's GO. The pages themselves are unchanged at the
+  root, and the /test files stay in the repo history.
+
 ## 1.7.0 - 2026-11-07
 - THE SITE IS LIVE: the /test site is promoted to the front
   page of bendavis.io, per Ben's ruling (2026-11-07 09:27 -
