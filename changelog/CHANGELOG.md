@@ -2,6 +2,14 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.3 - 2026-11-07
+- Tern page (/tern.html): the OS logos on the three download
+  buttons are now the real marks - the Windows perspective
+  logo, the Apple silhouette, and Tux for Linux - replacing
+  the hand-drawn approximations (the Linux icon was a face
+  in a circle; the Apple was a rough knock-off). Per Ben's
+  direction, 2026-11-07.
+
 ## 1.7.2 - 2026-11-07
 - CODER manual (/coder/manual.pdf) revised per Ben's ruling:
   the language reference is now complete. All 38 words of the
