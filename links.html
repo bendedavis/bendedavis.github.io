@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BenDavis.IO — Links</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { background:#0b0d0f; color:#d7dde2; font-family:ui-monospace, 'SF Mono', Menlo, Consolas, monospace; }
+header { text-align:center; padding:56px 20px 8px; }
+header img { max-width:540px; width:82%; height:auto; }
+main { max-width:1180px; margin:0 auto; padding:36px 20px 72px; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:26px; }
+.tile { display:block; text-decoration:none; background:#12161a; border:1px solid #2c343b; padding:14px 14px 12px; }
+.tile .imgwrap { display:block; background:#e8e6e1; }
+.tile img { display:block; width:100%; height:auto; }
+.tile .name { display:block; text-align:center; color:#9fb0ba; font-size:13px; letter-spacing:0.22em; padding-top:12px; }
+a.tile:hover { border-color:#ff7a1a; }
+h2.series { color:#ff7a1a; font-size:15px; font-weight:600; letter-spacing:0.34em; margin:52px 0 22px; }
+h2.series:first-child { margin-top:6px; }
+.back { display:block; text-align:center; color:#ff7a1a; text-decoration:none; font-size:12px; letter-spacing:0.26em; padding:26px 0 4px; }
+.home-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:26px; max-width:900px; margin:0 auto; }
+.tease { background:#12161a; border:1px solid #2c343b; min-height:220px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px; padding:20px; }
+.tease .name { color:#d7dde2; font-size:15px; letter-spacing:0.22em; }
+.tease .dev { color:#5c6a73; font-size:11px; letter-spacing:0.3em; }
+h1.pagetitle { text-align:center; color:#d7dde2; font-size:20px; font-weight:600; letter-spacing:0.34em; margin:10px 0 26px; }
+.shot { max-width:860px; margin:0 auto 34px; border:1px solid #2c343b; background:#12161a; padding:14px; }
+.shot img { display:block; width:100%; height:auto; }
+ul.feat { max-width:860px; margin:0 auto 30px; list-style:none; }
+ul.feat li { color:#9fb0ba; font-size:14px; line-height:1.55; padding:7px 0 7px 22px; position:relative; border-bottom:1px solid #1b2126; }
+ul.feat li:before { content:"\25B8"; color:#ff7a1a; position:absolute; left:2px; }
+.beta { max-width:860px; margin:0 auto 30px; text-align:center; color:#ff7a1a; font-size:12.5px; letter-spacing:0.08em; line-height:1.7; border:1px solid #2c343b; background:#12161a; padding:14px 18px; }
+.dlrow { display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:26px; max-width:900px; margin:0 auto; }
+.dl { display:flex; flex-direction:column; align-items:center; gap:10px; text-decoration:none; background:#12161a; border:1px solid #2c343b; padding:22px 16px 18px; color:#d7dde2; }
+.dl svg { width:26px; height:26px; }
+.dl .os { font-size:13px; letter-spacing:0.22em; }
+.dl .sz { color:#5c6a73; font-size:10.5px; letter-spacing:0.12em; text-align:center; line-height:1.6; }
+a.dl:hover { border-color:#ff7a1a; }
+.dl.soon { color:#454f57; border-color:#1e2429; }
+.dl.soon .sz { color:#454f57; }
+.linklist { max-width:640px; margin:0 auto; display:flex; flex-direction:column; gap:16px; }
+.linkrow { display:block; text-decoration:none; background:#12161a; border:1px solid #2c343b; padding:18px 20px 16px; text-align:center; }
+.linkrow .t { display:block; color:#d7dde2; font-size:14px; letter-spacing:0.22em; }
+.linkrow .s { display:block; color:#5c6a73; font-size:11px; letter-spacing:0.14em; line-height:1.6; padding-top:6px; }
+a.linkrow:hover { border-color:#ff7a1a; }
+.linklist .tease { min-height:0; padding:18px 20px 16px; gap:6px; }
+.linklist .tease .name { font-size:14px; }
+@media (max-width:560px) { .grid { grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:16px; } header { padding-top:38px; } }
+</style>
+</head>
+<body>
+<header><img src="headline.png" alt="BenDavis.IO"></header>
+<main>
+  <h1 class="pagetitle">LINKS</h1>
+  <div class="linklist">
+    <a class="linkrow" href="https://store.cherryaudio.com/modules/wall"><span class="t">WALL &mdash; NEWEST MODULE</span><span class="s">Brickwall limiter for Voltage Modular, on the Cherry Audio store</span></a>
+    <a class="linkrow" href="https://store.cherryaudio.com/bundles/everything"><span class="t">EVERYTHING BUNDLE</span><span class="s">Every released module in one bundle</span></a>
+    <a class="linkrow" href="https://bendavis.io/voltage.html"><span class="t">VOLTAGE MODULAR CATALOG</span><span class="s">The full module grid &mdash; every module, linked to the store</span></a>
+    <a class="linkrow" href="https://store.cherryaudio.com/bundles/minim-complete"><span class="t">MINIM COMPLETE</span><span class="s">The complete SERIES MINIM set in one bundle</span></a>
+    <a class="linkrow" href="https://bendavis.io/tern.html"><span class="t">TERN &mdash; FREE PUBLIC BETA</span><span class="s">Step sequencer, sampler and FX instrument for Windows, Linux and macOS</span></a>
+    <a class="linkrow" href="https://store.cherryaudio.com/manufacturers/ben-davis"><span class="t">CHERRY AUDIO STORE</span><span class="s">All BenDavis.IO products and bundles</span></a>
+    <div class="tease"><span class="name">FIRST CONTACT</span><span class="dev">Guitar pedal &mdash; in development</span></div>
+  </div>
+  <a class="back" href="index.html">&larr; BENDAVIS.IO</a>
+</main>
+</body>
+</html>
