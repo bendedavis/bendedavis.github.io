@@ -2,6 +2,13 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.5 - 2026-11-10
+- /links: the First Contact "in development" teaser row is
+  REMOVED, per Ben's ruling (2026-11-10). It was the only
+  non-link row on a link page; it returns when a First
+  Contact product page exists for it to point at. The six
+  link rows are unchanged.
+
 ## 1.7.4 - 2026-11-10
 - NEW PAGE /links - a link-in-bio page in the site's own
   style: WALL (newest module), the Everything Bundle, the
