@@ -2,6 +2,16 @@
 
 Newest first. Every change to the site gets an entry here.
 
+## 1.7.4 - 2026-11-10
+- NEW PAGE /links - a link-in-bio page in the site's own
+  style: WALL (newest module), the Everything Bundle, the
+  Voltage Modular catalog, MINIM Complete, the Tern free
+  public beta, and the Cherry Audio store, plus the First
+  Contact "in development" teaser. Built as the destination
+  for the @bendavis.io Instagram profile link; the profile
+  link switches from the bare homepage to /links with this
+  release. Approved by Ben, 2026-11-10.
+
 ## 1.7.3 - 2026-11-07
 - Tern page (/tern.html): the OS logos on the three download
   buttons are now the real marks - the Windows perspective
